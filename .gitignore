@@ -1,0 +1,9 @@
+.idea/
+Supprimerait .gitignore
+Supprimerait .idea/
+Supprimerait index.php
+Supprimerait js/
+Supprimerait show.php
+Supprimerait style.css
+Supprimerait thumb.php
+Supprimerait upload/
